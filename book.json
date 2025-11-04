@@ -23,7 +23,7 @@
          "custom-favicon",
          "page-toc-button",
          "tbfed-pagefooter",
-         "rss"
+         "-rss"
     ],
     "pluginsConfig": {
         "github": {
