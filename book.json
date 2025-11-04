@@ -20,7 +20,7 @@
          "hide-element",
          "code",
          "page-toc-button",
-         "tbfed-pagefooter",
+         "tbfed-pagefooter"
     ],
     "pluginsConfig": {
         "github": {
