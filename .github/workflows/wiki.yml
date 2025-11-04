@@ -1,5 +1,4 @@
-name: Deploy GitBook to GitHub Pages
-
+name: Deploy GitBook
 on:
   push:
     branches: [ master ]
